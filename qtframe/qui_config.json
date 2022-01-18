@@ -1,0 +1,21 @@
+{
+    "window_title": "Excel Checker",
+    "window_icon": "qtframe\\icons\\excel.ico",
+    "window_scale_ratio": 0.75,
+    "submit_btn_desc": "检查",
+    "cancel_btn_desc": "取消",
+    "search_placeholder_desc": "输入查找文本内容:content",
+    "split_placeholder_desc": "输入分隔符:str",
+    "arrow_icon": "qtframe\\icons\\green_arrow.png",
+    "excel_shown_textbrowser_desc": "拖拽excel文件到此区域以显示Excel页签",
+    "data_browser_desc": "数据浏览器",
+    "result_checker_desc": "检查结果",
+    "group_desc": "组",
+    "search_str_desc": "查找字符串",
+    "split_str_desc": "分隔符",
+    "right_vertical_spacing": 10,
+    "fixed_left_width": 400,
+    "center_space_width": 20,
+    "left_bounds_width": 10,
+    "right_bounds_width": 10
+}

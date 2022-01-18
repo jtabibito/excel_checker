@@ -1,0 +1,4 @@
+{
+    "qss_chosen_combox":"QComboBox QAbstractItemView::item { min-height: 40px; min-width: 60px;background-color: #5F9F9F; }",
+    "qss_textbrowser":"QTextBrowser { background-color: #5F9F9F; }"
+}
